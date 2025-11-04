@@ -33,8 +33,6 @@ This project provides a layered architecture where admin/staff users can manage 
 ---
 
 
----
-
 ## Database Schema
 
 **Tables:**
